@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:34:51 +0530] "GET /08-student-mvc/StudentController HTTP/1.1" 200 2332
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:34:57 +0530] "GET /08-student-mvc/StudentController?search=nitish HTTP/1.1" 200 1053
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:35:05 +0530] "GET /08-student-mvc/StudentController HTTP/1.1" 200 2332
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:35:10 +0530] "GET /08-student-mvc/StudentController?search=janvii HTTP/1.1" 200 1053
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:35:22 +0530] "GET /08-student-mvc/StudentController HTTP/1.1" 200 2332
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:35:28 +0530] "GET /08-student-mvc/StudentController?search=anchal HTTP/1.1" 200 1384
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:35:39 +0530] "GET /08-student-mvc/StudentController?search=janhvii HTTP/1.1" 200 1389
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:35:50 +0530] "GET /08-student-mvc/StudentController?search=ajuu HTTP/1.1" 200 1377
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:09:35:58 +0530] "GET /08-student-mvc/StudentController?search=ujjwal HTTP/1.1" 200 1053
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:11:36:14 +0530] "GET /08-student-mvc/JdbcTest HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:11:36:21 +0530] "GET /08-student-mvc/JdbcTest HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:11:36:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:11:36:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:11:39:06 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Oct/2023:11:39:09 +0530] "GET / HTTP/1.1" 404 751

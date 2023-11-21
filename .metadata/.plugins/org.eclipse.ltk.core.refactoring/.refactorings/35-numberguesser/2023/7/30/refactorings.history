@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.aurionpro.model.NumberGameMethods.java&apos; to &apos;NumberMethods.java&apos;&#x0D;&#x0A;- Original project: &apos;35-numberguesser&apos;&#x0D;&#x0A;- Original element: &apos;com.aurionpro.model.NumberGameMethods.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.aurionpro.model.NumberMethods.java&apos;" description="Rename compilation unit &apos;NumberGameMethods.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.aurionpro.model{NumberGameMethods.java" name="NumberMethods.java" references="false" stamp="1690620502714" version="1.0"/>
+</session>

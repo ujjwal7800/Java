@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.aurionpro.model.Singleton"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.CarType"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ICarFactory"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IGadget"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Hat"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Biscuit"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.HatAdapter"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IItems"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.ShoppingCart"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.WheelAlign"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Account"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.SmsNotifier"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Employee"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Consultant"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.SeniorConsultant"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

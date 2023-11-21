@@ -1,0 +1,16 @@
+INDEX VERSION 1.130+D:\Software\eclipseOxygen\Testing\.metadata\.plugins\org.eclipse.jdt.core
+1440749552.index
+3930451927.index
+1763212855.index
+1441446945.index
+791625474.index
+1354352584.index
+1961799286.index
+797449212.index
+2460546677.index
+645177533.index
+2722656883.index
+1932026534.index
+3148524248.index
+886105557.index
+1966497793.index

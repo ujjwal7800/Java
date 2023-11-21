@@ -1,0 +1,87 @@
+package com.aurionpro.model;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import javax.rmi.CORBA.Util;
+
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
+
+class MathUtilTest {
+
+	MathUtil util = new MathUtil();
+	
+	@BeforeAll
+	void init() {
+		System.out.println("Before all");
+	}
+
+	@Test
+	void test() {
+		// fail("Not yet implemented");
+	}
+
+	@Test
+	void testAddNumbers() {
+		MathUtil util = new MathUtil();
+		double addResult = util.addNumbers(10, 20);
+		assertEquals(30, addResult);
+		System.out.println("hello");
+		// System.out.println();
+	}
+
+	@Test
+	void testFactorial() {
+		int factResult = util.factorial(5);
+		assertEquals(120, factResult);
+		// System.out.println("hello");
+	}
+
+	@Test
+	void testDivideNumbers() {
+		double divideNumbers = util.divideNumbers(20, 40);
+		assertTrue(2 == divideNumbers);
+		assertFalse(3 == divideNumbers);
+
+	}
+
+	@Test
+	void testArrays() {
+		MathUtil util = new MathUtil();
+		int[] numbers1 = { 10, 20, 30, 40, 50 };
+		int[] numbers2 = { 20, 30, 40, 50, 60 };
+		assertArrayEquals(numbers2, util.addNumbersToArray(numbers1));
+	}
+	// @Test
+	// void testArrays() {
+	// MathUtil util = new MathUtil();
+	// int[]numbers1= {10,20,30,40,50};
+	// int[]numbers2= {20,30,40,50,60};
+	// assertArrayEquals(numbers2,util.addNumbersToArray(numbers1));
+	// }
+
+	// @Test
+	// void testDivideNumbers_checkResult() {
+	// MathUtil util=new MathUtil();
+	// assertEquals(2,util.divideNumbers(10, 5));
+	// }
+	@Test
+	void testDivideNumbers_checkException() {
+
+		// assertEquals(2,util.divideNumbers(10, 5));
+		assertThrows(ArithmeticException.class, () -> util.divideNumbers(0, 10));
+	}
+
+	@Test
+	void testAddition() {
+		MathUtil util = new MathUtil();
+		assertAll("Addition Tests", () -> assertEquals(15, util.addNumbers(10, 5)),
+				() -> assertEquals(2, util.divideNumbers(5, 10)), () -> assertEquals(120, util.factorial(5)));
+	}
+	
+	@BeforeAll
+	void init() {
+		System.out.println("Before all");
+	}
+
+}

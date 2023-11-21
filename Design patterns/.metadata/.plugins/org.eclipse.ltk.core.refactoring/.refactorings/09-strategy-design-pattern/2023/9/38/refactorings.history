@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.aurionpro.model.Addoperation&apos; to &apos;AddOperation&apos;&#x0D;&#x0A;- Original project: &apos;09-strategy-design-pattern&apos;&#x0D;&#x0A;- Original element: &apos;com.aurionpro.model.Addoperation&apos;&#x0D;&#x0A;- Renamed element: &apos;com.aurionpro.model.AddOperation&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Addoperation&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.aurionpro.model{Addoperation.java[Addoperation" matchStrategy="1" name="AddOperation" qualified="false" references="true" similarDeclarations="false" stamp="1695184824860" textual="false" version="1.0"/>
+</session>

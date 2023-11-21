@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.aurionpro.test.FlyweightTest&apos; to &apos;FlyWeightTest&apos;&#x0D;&#x0A;- Original project: &apos;11-flyweight-design-pattern&apos;&#x0D;&#x0A;- Original element: &apos;com.aurionpro.test.FlyweightTest&apos;&#x0D;&#x0A;- Renamed element: &apos;com.aurionpro.test.FlyWeightTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FlyweightTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.aurionpro.test{FlyweightTest.java[FlyweightTest" matchStrategy="1" name="FlyWeightTest" qualified="false" references="true" similarDeclarations="false" stamp="1695193440748" textual="false" version="1.0"/>
+</session>

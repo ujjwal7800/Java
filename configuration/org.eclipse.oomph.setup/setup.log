@@ -1,0 +1,20 @@
+[2018-11-22 13:03:29] Executing startup tasks
+[2018-11-22 13:03:30] Java(TM) SE Runtime Environment pwa6480sr3ifx-20160713_01 (SR3+IX90174+IV85763 SR3+IX90174+IV85763)
+[2018-11-22 13:03:30] Product self.product.version
+[2018-11-22 13:03:30] Workspace C:\Users\mahesh.karnekar\eclipse-workspace
+[2018-11-22 13:03:30] Bundle org.eclipse.oomph.setup 1.8.0.v20170408-0745, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-11-22 13:03:30] Bundle org.eclipse.oomph.setup.core 1.8.0.v20170531-0903, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-11-22 13:03:30] Bundle org.eclipse.oomph.setup.p2 1.8.0.v20170318-0419, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-11-22 13:03:30] Performing Preference /instance/org.eclipse.ant.core/additional_entries = C:/Program Files (x86)/IBM/WebSphere/AppServer/java/lib/tools.jar,
+[2018-11-22 13:03:30] Performing Preference /instance/org.eclipse.ant.launching/timeout = 20000
+[2018-11-22 13:03:30] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.forbiddenReference = warning
+[2018-11-22 13:03:30] 
+[2018-12-14 16:28:10] Executing startup tasks
+[2018-12-14 16:28:11] Java(TM) SE Runtime Environment pwa6480sr3ifx-20160713_01 (SR3+IX90174+IV85763 SR3+IX90174+IV85763)
+[2018-12-14 16:28:11] Product self.product.version
+[2018-12-14 16:28:11] Workspace D:\ADCB\PROJECTS\ADCB_CR_BUCKET5_2018
+[2018-12-14 16:28:11] Bundle org.eclipse.oomph.setup 1.8.0.v20170408-0745, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-12-14 16:28:11] Bundle org.eclipse.oomph.setup.core 1.8.0.v20170531-0903, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-12-14 16:28:11] Bundle org.eclipse.oomph.setup.p2 1.8.0.v20170318-0419, build=3059, branch=2161405b80cf99ed791602ba56cdf44084f5ca43
+[2018-12-14 16:28:11] Performing Preference /instance/org.eclipse.ant.launching/timeout = 20000
+[2018-12-14 16:28:11] 

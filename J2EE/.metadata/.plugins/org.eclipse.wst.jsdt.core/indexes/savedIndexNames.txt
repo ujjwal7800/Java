@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+D:\Software\eclipseOxygen\J2EE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1209027452.index
+3966800977.index
+3093975850.index
+869155894.index
+1628825358.index
+430509543.index
+524539489.index
+3660383229.index
+1121017215.index
